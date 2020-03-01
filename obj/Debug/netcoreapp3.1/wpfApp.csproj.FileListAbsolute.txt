@@ -1,0 +1,17 @@
+d:\code\wpfApp\bin\Debug\netcoreapp3.1\wpfApp.exe
+D:\code\wpfApp\bin\Debug\netcoreapp3.1\wpfApp.deps.json
+D:\code\wpfApp\bin\Debug\netcoreapp3.1\wpfApp.runtimeconfig.json
+D:\code\wpfApp\bin\Debug\netcoreapp3.1\wpfApp.runtimeconfig.dev.json
+d:\code\wpfApp\bin\Debug\netcoreapp3.1\wpfApp.dll
+d:\code\wpfApp\bin\Debug\netcoreapp3.1\wpfApp.pdb
+d:\code\wpfApp\obj\Debug\netcoreapp3.1\wpfApp.csprojAssemblyReference.cache
+d:\code\wpfApp\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+d:\code\wpfApp\obj\Debug\netcoreapp3.1\App.g.cs
+d:\code\wpfApp\obj\Debug\netcoreapp3.1\wpfApp_MarkupCompile.cache
+d:\code\wpfApp\obj\Debug\netcoreapp3.1\wpfApp_MarkupCompile.lref
+d:\code\wpfApp\obj\Debug\netcoreapp3.1\MainWindow.baml
+d:\code\wpfApp\obj\Debug\netcoreapp3.1\wpfApp.g.resources
+d:\code\wpfApp\obj\Debug\netcoreapp3.1\wpfApp.AssemblyInfoInputs.cache
+d:\code\wpfApp\obj\Debug\netcoreapp3.1\wpfApp.AssemblyInfo.cs
+d:\code\wpfApp\obj\Debug\netcoreapp3.1\wpfApp.dll
+d:\code\wpfApp\obj\Debug\netcoreapp3.1\wpfApp.pdb

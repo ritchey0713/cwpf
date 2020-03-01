@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ritch\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ritch\\.nuget\\packages"
+    ]
+  }
+}
